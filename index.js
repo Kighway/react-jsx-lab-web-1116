@@ -1,8 +1,8 @@
 const React = require('react');
 const ReactDOM = require('react-dom');
 
-const RegistrationForm = require('./components/RegistrationForm');
-const Webpage = require('./components/Webpage');
+const RegistrationForm = require('./components/RegistrationForm.js');
+const Webpage = require('./components/Webpage.js');
 
 ReactDOM.render(
   (
